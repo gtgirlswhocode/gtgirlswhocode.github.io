@@ -416,7 +416,7 @@ section {
   content: "";
   width: 50px;
   height: 2px;
-  background: #3498db;
+  background: #f8961e;
   display: inline-block;
 }
 .section-title h2::before {
@@ -1064,9 +1064,9 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Pricing
+# Get Involved
 --------------------------------------------------------------*/
-.pricing .box {
+.getinv .box {
   padding: 20px;
   background: #f9f9f9;
   text-align: center;
@@ -1075,32 +1075,32 @@ section {
   overflow: hidden;
   border: 2px solid #f9f9f9;
 }
-.pricing .box h3 {
+.getinv .box h3 {
   font-weight: 400;
   padding: 15px;
   margin-top: 15px;
-  font-size: 18px;
+  font-size: 28px;
   font-weight: 600;
-  color: #222222;
+  color: #f8961e;
 }
-.pricing .box h4 {
+.getinv .box h4 {
   font-size: 42px;
-  color: #3498db;
+  color: #f8961e;
   font-weight: 500;
   font-family: "Open Sans", sans-serif;
   margin-bottom: 20px;
 }
-.pricing .box h4 sup {
+.getinv .box h4 sup {
   font-size: 20px;
   top: -15px;
   left: -3px;
 }
-.pricing .box h4 span {
+.getinv .box h4 span {
   color: #bababa;
   font-size: 16px;
   font-weight: 300;
 }
-.pricing .box ul {
+.getinv .box ul {
   padding: 0;
   list-style: none;
   color: #222222;
@@ -1108,48 +1108,37 @@ section {
   line-height: 20px;
   font-size: 14px;
 }
-.pricing .box ul li {
+.getinv .box ul li {
   padding-bottom: 16px;
 }
-.pricing .box ul i {
-  color: #3498db;
+.getinv .box ul i {
+  color: #f8961e;
   font-size: 18px;
   padding-right: 4px;
 }
-.pricing .box ul .na {
+.getinv .box ul .na {
   color: #ccc;
   text-decoration: line-through;
 }
-.pricing .box .btn-wrap {
+.getinv .box .btn-wrap {
   padding: 15px;
   text-align: center;
 }
-.pricing .box .btn-buy {
+.getinv .box .btn-apply {
   display: inline-block;
   padding: 10px 40px 12px 40px;
   border-radius: 50px;
-  border: 2px solid #3498db;
-  color: #3498db;
+  border: 2px solid #f8961e;
+  color: #f8961e;
   font-size: 14px;
   font-weight: 400;
   font-family: "Raleway", sans-serif;
   font-weight: 600;
   transition: 0.3s;
 }
-.pricing .box .btn-buy:hover {
-  background: #3498db;
+.getinv .box .btn-apply:hover {
+  background: #f8961e;
   color: #fff;
-}
-.pricing .recommended {
-  border-color: #3498db;
-}
-.pricing .recommended .btn-buy {
-  background: #3498db;
-  color: #fff;
-}
-.pricing .recommended .btn-buy:hover {
-  background: #2383c4;
-  border-color: #2383c4;
 }
 
 /*--------------------------------------------------------------
