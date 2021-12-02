@@ -14,12 +14,12 @@ body {
 }
 
 a {
-  color: #3498db;
+  color: #f9c74f;
   text-decoration: none;
 }
 
 a:hover {
-  color: #5faee3;
+  color: #f8961e;
   text-decoration: none;
 }
 
@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #3498db;
+  background: #f9c74f;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -49,7 +49,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 0;
 }
 .back-to-top:hover {
-  background: #57aae1;
+  background: #f8961e;
   color: #fff;
 }
 .back-to-top.active {
@@ -132,7 +132,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-left: 5px;
 }
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
-  color: #f8961e;
+  color: #f9c74f;
 }
 .navbar .getinvolved, .navbar .getstarted:focus {
   background: linear-gradient(180deg, #FFB633 0%, #FFAB6F 99.99%, rgba(255, 182, 51, 0) 100%);
@@ -143,7 +143,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .navbar .getstarted:hover, .navbar .getstarted:focus:hover {
   color: #fff;
-  background: #f8961e;
+  background: #f9c74f;
 }
 .navbar .dropdown ul {
   display: block;
@@ -257,7 +257,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #222222;
 }
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
-  color: #3498db;
+  color: #f8961e;
 }
 .navbar-mobile .getstarted, .navbar-mobile .getstarted:focus {
   margin: 15px;
@@ -283,7 +283,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 12px;
 }
 .navbar-mobile .dropdown ul a:hover, .navbar-mobile .dropdown ul .active:hover, .navbar-mobile .dropdown ul li:hover > a {
-  color: #3498db;
+  color: #f8961e;
 }
 .navbar-mobile .dropdown > .dropdown-active {
   display: block;
@@ -323,7 +323,7 @@ h1, h2, h3, h4, h5, h6 {
   border: 2px solid #fff;
 }
 #hero .btn-get-involved:hover {
-  background: #f9c74f;
+  background: #f8961e;
   color: #fff;
 }
 #hero .animated {
@@ -1374,6 +1374,12 @@ section {
 #footer .footer-links a:first-child {
   padding-left: 0;
 }
+
 #footer .footer-links a:hover {
-  color: #3498db;
+  color: #f8961e;
+}
+
+.social-icon {
+  color: #f9c74f;
+  font-size: 25px;
 }
