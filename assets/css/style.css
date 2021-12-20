@@ -1074,7 +1074,7 @@ section {
   position: relative;
   overflow: hidden;
   border: 2px solid #f9f9f9;
-  height: 400px;
+  height: 450px;
 }
 .getinv .box h3 {
   font-weight: 400;
@@ -1107,7 +1107,7 @@ section {
   text-decoration: line-through;
 }
 .getinv .box .btn-wrap {
-  padding: 15px;
+  padding: 60px 15px;
   text-align: center;
 }
 .getinv .box .btn-apply {
@@ -1129,7 +1129,7 @@ section {
 }
 
 .getinv .box .later {
-  padding: 30px 40px 12px 40px;
+  padding: 75px 40px 12px 40px;
   color: #f8961e;
   font-size: 14px;
   font-weight: 400;
