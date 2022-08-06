@@ -428,6 +428,10 @@ section {
 .section-title p {
   margin: 15px 0 0 0;
 }
+
+.paragraph {
+  text-align: center
+}
 /*--------------------------------------------------------------
 # More Info (Who We Are, What We Do)
 --------------------------------------------------------------*/
